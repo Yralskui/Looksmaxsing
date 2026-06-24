@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+ref.html
+*.tar.gz
+
+# .env и *.db включены в приватный бэкап-репозиторий
